@@ -28,7 +28,7 @@ Additional tutorials and help
   
 ## People
 
-jandrewlund - github.com/jandrew
+jandrewlund - https://github.com/jandrew
 
 GraveKeeper miles9080@gmail.com
 
