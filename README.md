@@ -29,4 +29,4 @@ Additional tutorials and help
 ## people
 
 Blake edited this
-josh has edited this
+josh edited this
