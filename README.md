@@ -29,5 +29,6 @@ Additional tutorials and help
 ## people
 
 Kagan - github.com/KJediahL
+
 Jaren - github.com/TheJari
 i edited this
