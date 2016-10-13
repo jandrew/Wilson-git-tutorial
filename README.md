@@ -26,8 +26,13 @@ Additional tutorials and help
 
   http://ftcforum.usfirst.org/archive/index.php/f-159.html
 
+<<<<<<< HEAD
 ## People
 
 jandrewlund - github.com/jandrew
 
 GraveKeeper miles9080@gmail.com
+=======
+i edited this
+arcamage00 jakemakuch@gmail.com
+>>>>>>> pr/3
