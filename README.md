@@ -26,3 +26,6 @@ Additional tutorials and help
 
   http://ftcforum.usfirst.org/archive/index.php/f-159.html
   
+## people
+
+i edited this
