@@ -28,5 +28,5 @@ Additional tutorials and help
   
 ## people
 
-Blake edited this
+blake edited this
 Josh edited this
