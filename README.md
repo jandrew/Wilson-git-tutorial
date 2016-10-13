@@ -29,3 +29,4 @@ Additional tutorials and help
 ## people
 
 i edited this
+Katie Erkenbeck - https://github.com/katieie3202
