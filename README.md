@@ -28,4 +28,4 @@ Additional tutorials and help
   
 ## people
 
-i edited this
+jandrewlund - github.com/jandrew
