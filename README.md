@@ -29,3 +29,5 @@ Additional tutorials and help
 ## people
 
 i edited this
+
+Its ya boi elliottt who edited this --> https://github.com/ElliottChimienti/Wilson-git-tutorial.git
