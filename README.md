@@ -41,3 +41,6 @@ Jake Van Horn - https://github.com/jakevanhorn
 Blake edited this
 Josh edited this
 
+Kagan - github.com/KJediahL
+
+Jaren - github.com/TheJari
