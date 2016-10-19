@@ -46,3 +46,6 @@ Kagan - github.com/KJediahL
 Jaren - github.com/TheJari
 
 Its ya boi elliottt who edited this --> https://github.com/ElliottChimienti/Wilson-git-tutorial.git
+
+Katie Erkenbeck - https://github.com/katieie3202
+
