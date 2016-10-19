@@ -25,7 +25,7 @@ Base FTC robot code in github (SDK)
 Additional tutorials and help
 
   http://ftcforum.usfirst.org/archive/index.php/f-159.html
-
+  
 ## People
 
 jandrewlund - github.com/jandrew
@@ -33,3 +33,5 @@ jandrewlund - github.com/jandrew
 GraveKeeper miles9080@gmail.com
 
 arcamage00 jakemakuch@gmail.com
+
+Abraham - https://github.com/AberMyBaber/Wilson-git-tutorial
