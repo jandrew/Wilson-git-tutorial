@@ -26,7 +26,9 @@ Additional tutorials and help
 
   http://ftcforum.usfirst.org/archive/index.php/f-159.html
   
-  Advanced git training - https://www.youtube.com/watch?v=1ffBJ4sVUb4
+Advanced git training
+
+  https://www.youtube.com/watch?v=1ffBJ4sVUb4
   
 ## People
 
