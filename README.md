@@ -25,11 +25,11 @@ Base FTC robot code in github (SDK)
 Additional tutorials and help
 
   http://ftcforum.usfirst.org/archive/index.php/f-159.html
-  
+
 Advanced git training
 
   https://www.youtube.com/watch?v=1ffBJ4sVUb4
-  
+
 ## People
 
 jandrewlund - https://github.com/jandrew
@@ -57,3 +57,4 @@ Karter - https://github.com/cartAZ
 
 Steven Peterson-StevenPeterson7
 
+Michael Schuff-eatdacarrot
